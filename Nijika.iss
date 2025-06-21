@@ -1,12 +1,12 @@
 ; -- nijika_installer.iss --
 
 [Setup]
-AppName=Nijika Roleplay Chat
-AppVersion=0.0.1-Dev-Release
+AppName=Roleplay Chatbot
+AppVersion=0.0.1-Dev-Preview
 DefaultDirName={pf}\NijikaChat
 DefaultGroupName=NijikaChat
 OutputDir=dist
-OutputBaseFilename=chatbot_installer
+OutputBaseFilename=chatbot_installer_dev
 Compression=lzma
 SolidCompression=yes
 LicenseFile=LICENSE.txt
